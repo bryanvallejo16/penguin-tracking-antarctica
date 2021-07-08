@@ -3,8 +3,9 @@
 # Summary
 This demo contains the foraging behavior of Adélie Penguins in Antactica during chick-rearing period. The tracks were recorded in 2018.
 
-***Final map animation: *** 
-***Tutorial: ***
+***Final map animation:*** https://bryanvallejo16.github.io/penguin-tracking-antarctica/
+***Tutorial:***
+
 # Map animation 
 [![animation](png/gif-penguingl.gif)
 
